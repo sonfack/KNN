@@ -1,5 +1,5 @@
 # My experience with Python and machine Learning 
-
+## Using Jupyter Notebook with anaconda3 Docker image, pull from docker pull continuumio/anaconda3
 ```python
 %matplotlib notebook 
 import numpy as np 
